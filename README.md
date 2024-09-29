@@ -11,6 +11,8 @@ About Me
 I am a dedicated B.Tech student at Amrita Vishwa Vidyapeetham, Amritapuri, with a profound interest in technology, particularly in cybersecurity and software development.
 With a solid foundation in programming and a passion for solving complex problems, I strive to leverage my skills to create innovative solutions.
 
+About repo
+
 This repository documents the tasks completed for the ACM Cyber Club selection process. These tasks demonstrate my skills in various cybersecurity domains.
 
 Completed Tasks
@@ -24,14 +26,7 @@ Skills Demonstrated:
 2.Password recovery techniques
 
 
-Abhinav Dileep
-
-Cybersecurity Enthusiast | Software Developer
-About Me
-I am a dedicated B.Tech student at Amrita Vishwa Vidyapeetham, Amritapuri, with a profound interest in technology, particularly in cybersecurity and software development.
-With a solid foundation in programming and a passion for solving complex problems, I strive to leverage my skills to create innovative solutions.
-
-Skills
+Skills:
 
 Programming Languages:
 
@@ -45,7 +40,6 @@ Web Development:
 2.CSS
 3.JavaScript
 
-Cybersecurity:
 
 Completed ACM cyber tasks, demonstrating practical skills in cybersecurity practices and challenges.
 Completing these ACM Cyber tasks has enhanced my understanding of cybersecurity principles and practices.
