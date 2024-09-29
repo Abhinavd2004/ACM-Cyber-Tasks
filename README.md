@@ -1,49 +1,36 @@
-# ACM-Cyber-Task
-
+#ACM Cyber Task
 
 Abhinav Dileep
 
 Cybersecurity Enthusiast | Software Developer
 
-
 About Me
 
-I am a dedicated B.Tech student at Amrita Vishwa Vidyapeetham, Amritapuri, with a profound interest in technology, particularly in cybersecurity and software development.
-With a solid foundation in programming and a passion for solving complex problems, I strive to leverage my skills to create innovative solutions.
+I am a B.Tech student at Amrita Vishwa Vidyapeetham, Amritapuri, with a strong passion for technology, particularly in cybersecurity and software development. My solid programming foundation drives me to solve complex problems and create innovative solutions.
 
-About repo
+Repository Overview
 
-This repository documents the tasks completed for the ACM Cyber Club selection process. These tasks demonstrate my skills in various cybersecurity domains.
+This repository documents the tasks completed for the ACM Cyber Club selection process, showcasing my skills across various cybersecurity domains.
 
 Completed Tasks
-1.SQL Injection: Exploited vulnerabilities in a web application to extract unauthorized data.
-2,Password Cracking: Implemented techniques to recover passwords using wordlists and brute force methods.
-3.Capture the Flag (CTF): Participated in challenges focused on web security, cryptography.
 
-Skills Demonstrated:
+1.SQL Injection: Exploited vulnerabilities in a web application to retrieve unauthorized data.
+
+2.Password Cracking: Utilized wordlists and brute-force methods to recover passwords.
+
+3.Capture the Flag (CTF): Engaged in challenges centered on web security and cryptography.
+
+Skills Demonstrated
 
 1.Web application security
+
 2.Password recovery techniques
 
+3.Technical Skills
 
-Skills:
+1.Programming Languages: Python, Java, C (Basics)
 
-Programming Languages:
+Web Development: HTML, CSS, JavaScript
 
-1.Python
-2.Java
-3.C (Basics)
-
-Web Development:
-
-1.HTML
-
-2.CSS
-
-3.JavaScript
-
-
-Completed ACM cyber tasks, demonstrating practical skills in cybersecurity practices and challenges.
-Completing these ACM Cyber tasks has enhanced my understanding of cybersecurity principles and practices.
-look forward to applying these skills in real-world scenarios and furthering my knowledge in cybersecurity.
-
+Completing these ACM Cyber tasks has significantly enhanced my understanding of cybersecurity principles. 
+I am eager to apply these skills in real-world scenarios and further my knowledge in the field.
