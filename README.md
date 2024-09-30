@@ -32,3 +32,12 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 1. **Web Application Security**: Enhanced understanding of vulnerabilities and protection mechanisms.
 
+---
+
+|       Task             |   Status      |
+|------------------------|----------------|
+| Basics of Web Security |      Done      |
+| Crptography            |      Done      |
+| Forensics              |      Done      |
+
+
