@@ -48,7 +48,7 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 Feel free to reach out to me for any inquiries or collaboration opportunities!
 
-- **Email**:abhinavdileep10baps@gmail.com
+- **Email**:abhinavdileepaps10b@gmail.com
 ---
 
 Thank you for visiting my repository!
