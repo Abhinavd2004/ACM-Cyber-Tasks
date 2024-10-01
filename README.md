@@ -1,6 +1,6 @@
 # ACM Cyber Task
 
-## Abhinav Dileep
+## 👤 Abhinav Dileep
 
 **Cybersecurity Enthusiast | Software Developer**
 
@@ -18,7 +18,7 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 ---
 
-## Completed Tasks
+## 🛠️ Completed Tasks
 
 1. **SQL Injection**: Exploited vulnerabilities in a web application to retrieve unauthorized data.
    
@@ -28,16 +28,28 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 ---
 
-## Skills Demonstrated
+## 💡 Skills Demonstrated
 
-1. **Web Application Security**: Enhanced understanding of vulnerabilities and protection mechanisms.
+- **Web Application Security**: Enhanced understanding of vulnerabilities and protection mechanisms.
 
 ---
 
+## 📊 Task Status
+
 |       Task             |   Status      |
 |------------------------|----------------|
-| Basics of Web Security |      Done      |
-| Crptography            |      Done      |
-| Forensics              |      Done      |
+| Basics of Web Security |      ✅ Done   |
+| Cryptography           |      ✅ Done   |
+| Forensics              |      ✅ Done   |
 
+---
+
+## 📫 Get in Touch
+
+Feel free to reach out to me for any inquiries or collaboration opportunities!
+
+- **Email**:abhinavdileep10baps@gmail.com
+---
+
+Thank you for visiting my repository!
 
