@@ -1,35 +1,34 @@
-# **Forensics Task: Dam Identification and ZIP File Password Cracking**
+# Forensics Tasks: Dam Location Identification and ZIP File Password Cracking
 
-## **Overview**
-This task is part of the **Cyber ACM Forensics Challenge**. It involves two key objectives:
-1. **Identifying a dam** using clues and forensic techniques.
-2. **Cracking a password-protected ZIP file** to extract its contents.
+## 📖 Overview
 
-The challenge focuses on basic forensic skills like pattern recognition, clue-based searches, and password-cracking techniques using wordlists.
+This repository contains forensic tasks aimed at identifying the location of a dam and cracking the password of a ZIP file. The tasks were completed using Python scripts and various libraries to enhance investigative skills and demonstrate practical applications in cybersecurity.
 
 ---
 
-## **Task 1: Dam Identification**
+## 🔍 Tasks Completed
 
-### Objective:
-Identify the correct dam based on the clues provided. The clues may involve geographic, historical, or visual information that points to a specific dam.
+### 1. **Dam Location Identification**
 
-### Approach:
-1. **Gather clues** from the provided task file or images.
-2. Use **search engines** or **map tools** like Google Maps and perform reverse image search to match the clues to real-world data.
+- **Objective:** Identify the location of a specific dam using geographical coordinates.
+- **Methodology:** 
+  - Utilized latitude and longitude values obtained through decoding processes (e.g., Base64 decoding).
+  - Mapped the coordinates using Google Maps to pinpoint the location.
+- **Coordinates Used:** 
+  - Latitude: `10.854753988372662`
+  - Longitude: `76.66236870807573`
+- **Location Identified:** Malampuzha Dam
 
-### Tools:
-- Web browsers
-- Search engines (Google, Bing)
-- Reverse image search
+### 2. **ZIP File Password Cracking**
+
+- **Objective:** Develop a Python script to crack the password of a ZIP file.
+- **Tools Used:** 
+  - `zipfile` module (part of Python's standard library)
+  - `itertools` module for generating potential passwords
+- **Methodology:**
+  - Created a script that iterates through a wordlist to attempt password combinations.
+  - Implemented error handling to identify successful password entries.
+- **Script:** 
+  - Refer to the `zip_cracker.py` file in this repository.
 
 ---
-
-## **Task 2: ZIP File Password Cracking**
-
-### Objective:
-Crack the password of the given ZIP file to access its contents.
-
-### Approach:
-1. Use Script to open the zip file by cracking the password.
-2. A **wordlist** may be used to automate the password-guessing process.
