@@ -24,6 +24,6 @@ This repository contains tasks related to RSA encryption using the Chinese Remai
 
 - **Objective:** Develop a method to crack a given ciphertext using the RSA public key.
 - **Methodology:**
-  - Analyzed the ciphertext and attempted to decrypt it using brute-force or mathematical techniques.****
+  - Analyzed the ciphertext and attempted to decrypt it using brute-force or mathematical techniques.
  
   - ---
