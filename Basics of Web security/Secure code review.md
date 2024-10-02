@@ -32,7 +32,7 @@ Validate user inputs against expected formats (e.g., alphanumeric for usernames)
 3.Least Privilege Principle
 Ensure that the database user account has only the permissions necessary to perform its functions.
 
-## 1. Cross-Site Scripting (XSS) Vulnerability Analysis
+## 2. Cross-Site Scripting (XSS) Vulnerability Analysis
 
 ### __Vulnerability Overview__
 XSS vulnerabilities occur when an application includes untrusted data in a webpage without proper escaping or sanitization. Attackers can inject malicious scripts that execute in users' browsers, leading to data compromise.
@@ -59,7 +59,9 @@ Validate inputs to ensure they conform to expected formats and sanitize outputs 
 ## Conclusion
 
 To enhance the security of the Alturo Manual website:
+
 1.For SQL Injection: Implement parameterized queries, validate inputs, and enforce the least privilege principle for database access.
+
 2.For XSS: Escape user inputs, enforce a CSP, and validate all data to prevent malicious scripts.
 
 
