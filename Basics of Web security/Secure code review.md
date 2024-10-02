@@ -10,6 +10,6 @@ SQL Injection (SQLi) vulnerabilities arise when user input is directly included 
 ### __Example SQL Query__
 ```sql
 SELECT * FROM users WHERE username = 'admin' AND password = 'user_input';
-
-### __Example SQL Query__
-
+```
+###_Exploit Scenario_
+If an attacker inputs admin'--, the SQL query transforms into:
