@@ -4,7 +4,7 @@
 
 This repository contains tasks related to methods for cracking a given ciphertext. 
 
-### 2. **Ciphertext Cracking**
+### 1. **Ciphertext Cracking**
 
 - **Objective:** Develop a method to crack a given ciphertext using the RSA public key.
 - **Methodology:**
