@@ -36,11 +36,11 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 ## 📊 Task Status
 
-|       Task             |   Status      |
-|------------------------|----------------|
-| Basics of Web Security |      ✅ Done   |
-| Cryptography           |      ✅ Done   |
-| Forensics              |      ✅ Done   |
+|       Task             |   Status           |
+|------------------------|--------------------|
+| Basics of Web Security |✅ Done(Lab1 & Lab2 |
+| Cryptography           | ✅ Done            |
+| Forensics              |✅ Done             |
 
 ---
 
