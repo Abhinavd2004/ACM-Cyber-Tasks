@@ -21,7 +21,7 @@ This allows the attacker to log in as an admin without a password.
 ### __Recommendations for Fixing SQL Injection__
 
 1.Use Parameterized Queries (Prepared Statements)
-This is the most effective method for preventing SQL injection. Below are examples in Python and Java.
+This is the most effective method for preventing SQL injection. Below are examples in Python.
 
 ```python
 cursor.execute("SELECT * FROM users WHERE username = %s AND password = %s", (username, password))
