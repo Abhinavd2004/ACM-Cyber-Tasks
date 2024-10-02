@@ -11,5 +11,5 @@ SQL Injection (SQLi) vulnerabilities arise when user input is directly included 
 ```sql
 SELECT * FROM users WHERE username = 'admin' AND password = 'user_input';
 ```
-###_Exploit Scenario_
+### __Exploit Scenario__
 If an attacker inputs admin'--, the SQL query transforms into:
