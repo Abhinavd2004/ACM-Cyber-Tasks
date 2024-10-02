@@ -44,7 +44,7 @@ An attacker might submit the following input in a comment field:
 ```
 If rendered on the page without escaping, this script executes in the user's browser.
 
-###__Recommendations for Fixing XSS__
+### __Recommendations for Fixing XSS__
 1.Escape User Input
 
 Ensure that any user-generated content is properly escaped before rendering. This converts special characters into HTML entities.
