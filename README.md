@@ -38,7 +38,7 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 
 |       Task             |   Status           |
 |------------------------|--------------------|
-| Basics of Web Security |✅ Done(Lab1 & Lab2 |
+| Basics of Web Security |✅ Done(Lab1 & Lab2)|
 | Cryptography           | ✅ Done            |
 | Forensics              |✅ Done             |
 
