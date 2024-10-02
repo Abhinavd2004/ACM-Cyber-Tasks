@@ -39,7 +39,7 @@ This repository documents the tasks completed for the **ACM Cyber Club selection
 |       Task             |   Status           |
 |------------------------|--------------------|
 | [Basics of Web Security](https://github.com/Abhinavd2004/ACM-Cyber-Tasks/tree/main/Basics%20of%20Web%20security) |✅ Done(Lab1 & Lab2)|
-| [Cryptography]https://github.com/Abhinavd2004/ACM-Cyber-Tasks/tree/main/Cryptography| ✅ Done            |
+| [Cryptography](https://github.com/Abhinavd2004/ACM-Cyber-Tasks/tree/main/Cryptography)| ✅ Done            |
 | Forensics              |✅ Done             |
 
 ---
